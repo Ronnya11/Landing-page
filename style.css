@@ -1,0 +1,39 @@
+html {
+    background-color: black;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+ul li {
+    float: left;
+}
+
+ul li a {
+    display: block;
+    color: aliceblue;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+.home-img {
+    display: block;
+    margin-top: 25px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.home-title {
+    text-align: center;
+    color:aliceblue
+}
+
+nav {
+    display: flex;
+    justify-content: center;
+}
