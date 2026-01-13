@@ -76,3 +76,9 @@ footer a {
 footer a:hover {
     color: #E1306C; /* Instagram pink on hover */
 }
+
+.about-me {
+    color: aliceblue;
+    text-align: center;
+}
+
