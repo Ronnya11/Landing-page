@@ -20,7 +20,7 @@ ul li a {
     text-decoration: none;
 }
 
-.home-img {
+.home-img, .contact-img {
     display: block;
     margin-top: 25px;
     margin-left: auto;
@@ -37,3 +37,28 @@ nav {
     display: flex;
     justify-content: center;
 }
+
+label {
+    color:aliceblue;
+}
+
+form {
+    text-align:center;
+    
+}
+
+textarea {
+    display: block;
+    margin: 0 auto; 
+}
+
+.comments {
+    color:aliceblue;
+    text-align: center;
+}
+
+input {
+    margin-bottom: 15px;
+}
+
+
